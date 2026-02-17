@@ -1,0 +1,4 @@
+pub const MULTIPLIER_BASE: u64 = 10000;
+pub const MULTIPLIER_INCREASE: u64 = 12500;
+pub const MULTIPLIER_MAX: u64 = 30000;
+pub const PUNISHMENT_DELAY: i64 = 86400;
